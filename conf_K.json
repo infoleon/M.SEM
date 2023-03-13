@@ -1,0 +1,38 @@
+
+
+
+
+
+{
+
+	"data_f" : "data.csv" ,
+	"dots" :  "dots.csv",
+
+
+	"output_new" : "z_Time_K.out",
+
+
+	"q_f" : "q.csv",
+	"use_q_data" :  false,
+
+
+	"ths": 0.401 ,
+
+	"min_pF" : -10.0,
+
+	"delta" : 0.2 ,
+
+	"height" : 5.0,
+
+	"dist" : 1.25
+
+
+
+
+}
+
+
+
+
+
+
