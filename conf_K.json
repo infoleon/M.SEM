@@ -1,36 +1,36 @@
 
 
 {
-	"_file containing the tensiometer data" : "",
+	"__File containing the tensiometer data" : "",
 	"data_f" : "data.csv" ,
 	
-	"_file containing the estimated points of the retention function" : "",
+	"__File containing the estimated points of the retention function" : "",
 	"dots" :  "dots.csv",
 
-	"_name of the output file" : "",
+	"__Name of the output file" : "",
 	"output_new" : "z_Time_K.out",
 	
 
-	"_Estimated thS, for the retention function" : "",
+	"__Estimated thS, for the retention function" : "",
 	"ths": 0.401 ,
 
-	"_Value of pF were water content is thS" : "",
+	"__Value of pF were water content is thS" : "",
 	"min_pF" : -10.0,
 	
-	"_small distance above and below the sample center to calculate the gradient" : "",
+	"__Small distance above and below the sample center to calculate the gradient" : "",
 	"delta" : 0.2 ,
 	
-	"_height of the soil sample" : "",
+	"__Height of the soil sample" : "",
 	"height" : 5.0,
 	
-	"_distance between the center of the sample and the lower or upper tensiometer" : "",
+	"__Distance between the center of the sample and the lower or upper tensiometer" : "",
 	"dist" : 1.25,
 	
 	
-	"_Will the flux be estimated by the weigh time series? (false to use the proposed flux theory)" : "",
+	"__Will the flux be estimated by the weigh time series? (false to use the proposed flux theory)" : "",
 	"use_q_data" :  false,
 	
-	"_if use_q_data = true: file name containing the flux data based on balance" : "",
+	"__If use_q_data = true: file name containing the flux data based on balance" : "",
 	"q_f" : "q.csv"
 
 
