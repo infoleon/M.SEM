@@ -24,14 +24,14 @@
 	"height" : 5.0,
 	
 	"_distance between the center of the sample and the lower or upper tensiometer" : "",
-	"dist" : 1.25
+	"dist" : 1.25,
 	
 	
 	"_Will the flux be estimated by the weigh time series? (false to use the proposed flux theory)" : "",
 	"use_q_data" :  false,
 	
 	"_if use_q_data = true: file name containing the flux data based on balance" : "",
-	"q_f" : "q.csv",
+	"q_f" : "q.csv"
 
 
 }
