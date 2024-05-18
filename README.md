@@ -18,7 +18,12 @@ Modified Simplified Evaporation Method
   </div>
 </div>
 
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span>Your text here</span>
+  <span style="margin-left: auto;">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License">
+  </span>
+</div>
 
 
 
